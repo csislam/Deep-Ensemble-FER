@@ -72,7 +72,7 @@ If you use this work or find it helpful, please cite:
   author={Noor Islam S. Mohammad},
   year={2025},
   institution={Istanbul Technical University},
-  url={https://github.com/noorislam-mohammad/Deep-Ensemble-FER}
+  url={https://github.com/csislam/Deep-Ensemble-FER}
 }
 ```
 
